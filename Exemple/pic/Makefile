@@ -4,4 +4,5 @@ all:
 	pic tamany.pic -t > tamany.tex
 	pic lines.pic -t > lines.tex
 	pic same.pic -t > same.tex
+	pic arrow.pic -t > arrow.tex
 	mv *.tex ../b
