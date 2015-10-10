@@ -5,4 +5,5 @@ all:
 	pic lines.pic -t > lines.tex
 	pic same.pic -t > same.tex
 	pic arrow.pic -t > arrow.tex
+	pic fill.pic -t > fill.tex
 	mv *.tex ../b
